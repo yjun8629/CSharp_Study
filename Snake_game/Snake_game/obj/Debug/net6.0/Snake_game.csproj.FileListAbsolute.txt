@@ -1,0 +1,14 @@
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\Snake_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\Snake_game.AssemblyInfoInputs.cache
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\Snake_game.AssemblyInfo.cs
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\Snake_game.csproj.CoreCompileInputs.cache
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\bin\Debug\net6.0\Snake_game.exe
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\bin\Debug\net6.0\Snake_game.deps.json
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\bin\Debug\net6.0\Snake_game.runtimeconfig.json
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\bin\Debug\net6.0\Snake_game.dll
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\bin\Debug\net6.0\Snake_game.pdb
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\Snake_game.dll
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\refint\Snake_game.dll
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\Snake_game.pdb
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\Snake_game.genruntimeconfig.cache
+C:\Users\조용준\Desktop\CSharp_Study\Snake_game\Snake_game\obj\Debug\net6.0\ref\Snake_game.dll
