@@ -1,0 +1,14 @@
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\bin\Debug\net6.0\personal_assignment_Text_RPG.exe
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\bin\Debug\net6.0\personal_assignment_Text_RPG.deps.json
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\bin\Debug\net6.0\personal_assignment_Text_RPG.runtimeconfig.json
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\bin\Debug\net6.0\personal_assignment_Text_RPG.dll
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\bin\Debug\net6.0\personal_assignment_Text_RPG.pdb
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\personal_assignment_Text_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\personal_assignment_Text_RPG.AssemblyInfoInputs.cache
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\personal_assignment_Text_RPG.AssemblyInfo.cs
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\personal_assignment_Text_RPG.csproj.CoreCompileInputs.cache
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\personal_assignment_Text_RPG.dll
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\refint\personal_assignment_Text_RPG.dll
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\personal_assignment_Text_RPG.pdb
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\personal_assignment_Text_RPG.genruntimeconfig.cache
+C:\Users\조용준\Desktop\CSharp_Study\personal_assignment_Text_RPG\personal_assignment_Text_RPG\obj\Debug\net6.0\ref\personal_assignment_Text_RPG.dll
